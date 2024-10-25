@@ -1,5 +1,5 @@
-### Store Sales Interactive Excel Dashboard
-> (to add details)
+### Store Sales Dynamic Interactive Excel Dashboard with One-Click PowerPoint Export
+> This project involves creating a dynamic and visually engaging Excel dashboard from scratch and seamlessly exporting it to PowerPoint with a single click. Using colors #008CBA and #5bc0de, the project emphasizes clean, intuitive design, efficient data analysis, and automated reporting.
 
 #### Project Breakdown:
 > (to add details)
