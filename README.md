@@ -7,12 +7,11 @@
 > - **Data Preparation**: Organizes the data in working sheets and pivot tables, enabling interactive data exploration with slicers and custom formatting.
 > - **Dashboard Building**: Constructs the dashboard by linking formulas to pivot table values, enabling interactive filtering with slicers and visually enhancing data insights through charts
 > - **Final Touches**: Applies custom formatting to ensure data clarity and design consistency.
-Automated PowerPoint Export
 
-Macro Button Setup: Enables a single-click export from Excel to PowerPoint.
-VBA Automation: Integrates VBA code to create a PowerPoint presentation directly from Excel, dynamically adapting the layout for seamless alignment.
-Customizable Design: Allows modifications to shapes, dynamic titles, and format adjustments for consistency between Excel and PowerPoint.
+> **Automated PowerPoint Export**
+> - **Macro Button Setup**: Enables a single-click export from Excel to PowerPoint.
+> - **VBA Automation**: Integrates VBA code to create a PowerPoint presentation directly from Excel.
+> - **Customizable Design**: Allows modifications to shapes, dynamic titles, and format adjustments for consistency between Excel and PowerPoint.
 
-This comprehensive project equips users with skills in interactive Excel dashboarding, data visualization, and automated report generation—ideal for streamlining presentations and data-driven storytelling.
 
 <img width="1049" alt="Screenshot 2024-10-06 170751" src="https://github.com/user-attachments/assets/37fcc693-188d-4348-8f9f-0179a0a09c51">
